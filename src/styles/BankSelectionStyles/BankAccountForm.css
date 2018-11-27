@@ -1,0 +1,23 @@
+#controlButtons {
+    padding: 50px 30px 50px 30px;
+}
+#skip{
+    padding: 5px 5px 5px 10px;
+}
+#lbl,#lbl2{
+    color: gray;
+}
+#accountForm{
+    height: 400px;
+    width: 30%;
+    position:relative;
+    left:35%;
+    top:10%;
+    right :35%;
+    margin-left:-20px;
+    border-style: solid;
+    border-color: #333333;
+}
+#space{
+    padding: 35px 12px 2px 2px;
+}

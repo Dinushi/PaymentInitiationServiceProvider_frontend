@@ -1,0 +1,16 @@
+.App {
+    /*margin: 10px;
+    padding: 10px;*/
+    border: 1px solid #bbb;
+    background-color: #eee;
+}
+
+#welcome{
+    padding: 20px 5px 5px 5px;
+    color:  mediumblue;
+}
+
+#ins{
+    padding: 5px 5px 1px 5px;
+    color:  midnightblue;
+}

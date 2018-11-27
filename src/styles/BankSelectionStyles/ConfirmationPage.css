@@ -1,0 +1,19 @@
+
+#PaymentInfo{
+    width: 70%; height: 400px;
+    position:relative;
+    border-style: solid;
+    border-color: dodgerblue;
+
+}
+
+#BankSelection{
+    height: 400px;
+    width: 70%;
+    position:relative;
+    left:50%;
+    right :10%;
+    margin-left:-20px;
+    border-style: solid;
+    border-color: dodgerblue;
+}

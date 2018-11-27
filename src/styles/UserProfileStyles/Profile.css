@@ -1,0 +1,23 @@
+#profileForm{
+    padding: 30px 30px 20px 30px;
+}
+#userProfile{
+    padding: 40px 140px 40px 140px;
+    alignment: center;
+}
+#space{
+    padding: 35px 12px 2px 2px;
+}
+
+#merchantInfo{
+    padding: 8px 2px 2px 2px;
+    background-color: 	 #b3b332;
+}
+
+
+#inputFiel{display:inline-block;margin-right:10px; width:1500px; background-color:#eeeec3;}
+#editIco{display:inline-block; width:40px; background-color: #e3e39c;}
+
+#inputField1{display:inline-block;margin-right:10px; width:1500px; background-color:#eeeec3;}
+#editIcon1 {display:inline-block; width:40px; background-color: #e3e39c;}
+

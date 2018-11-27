@@ -1,0 +1,62 @@
+h1 {
+    color: #271E5C;
+    text-align: center;
+}
+#top{
+    width: 100%; height: 130px;
+    border-style: solid;
+    border-color: dodgerblue;
+    background-color: lightskyblue;
+}
+#banksList{
+    width: 30%;
+    position:relative;
+    left:60%;
+    right :10%;
+    top:34%;
+    margin-left:-20px;
+    margin-top: 20px;
+}
+
+#BankSelection{
+    width: 40%;
+    position:relative;
+    left:50%;
+    right :10%;
+    top:34%;
+    margin-left:-20px;
+    margin-top: 20px;
+}
+
+
+#info{
+    padding: 50px 30px 200px 30px;
+    alignment: center;
+    height: 2px;
+    color: #271E5C;
+
+}
+
+#msg{
+    padding: 10px 20px 10px 30px;
+
+}
+#ins{
+    padding: 10px 20px 30px 30px;
+
+}
+#space{
+    padding: 35px 12px 2px 2px;
+}
+#btn_decline{
+    margin-right:50px;
+
+}
+#bankSelection{
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-top: 20px;
+    length: 60px;
+    border-style: inset;
+    alignment: center;
+}
