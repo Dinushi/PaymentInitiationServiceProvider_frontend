@@ -37,7 +37,7 @@ export default class NotifyAuthorization extends React.Component {
                     <Col><div id="space"></div></Col>
                 </Row>
                 <Row>
-                    <Col><div id=""><p>You are now leaving PISP and you are being securely transmitted to your ASPSP to authenticate the payment</p></div></Col>
+                    <Col><div align="center" id=""><p>You are now leaving PISP and you are being securely transmitted to your ASPSP to authenticate the payment</p></div></Col>
                 </Row>
 
             </Container>)

@@ -156,7 +156,7 @@ class BankAccountForm extends Component {
                                 {!isAccountRequired ? (
                                     <div >
                                         <div id="space"></div>
-                                        <h4>The selected bank doesn't essentially require the Debtor account at this stage.</h4>
+                                        <h4>The selected bank does not essentially require the Debtor account at this stage.</h4>
                                         <h5> If you wish to provide debtor account during the authorization process,
                                             Click Skip</h5>
                                         <Button id="skip" variant="outlined" color="primary" onClick={()=> this.handleSkip()}>

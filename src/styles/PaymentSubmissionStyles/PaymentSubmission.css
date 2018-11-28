@@ -1,0 +1,17 @@
+#PaymentSummary{
+    padding: 100px 50px 50px 50px;
+    font-palette: dark;
+    font-weight: bold;
+
+}
+#Notify{
+    padding: 25px 25px 25px 25px;
+    margin-top: 50px;
+    margin-right: 25px;
+    margin-right: 25px;
+    margin-bottom: 300px;
+    border-style: solid;
+    border-color: #4da6ff;
+    background-color: lightblue;
+
+}
